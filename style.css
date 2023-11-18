@@ -19,7 +19,7 @@ header {
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  margin: 71px 99px;
+  margin: 71px 140px;
 }
 nav a {
 
@@ -32,7 +32,7 @@ nav a {
   line-height: 28px;
 
   }
-nav {
+ul {
   display: flex;
   gap: 64px;
   color: #FFF;
@@ -41,6 +41,7 @@ nav {
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
+  list-style: none;
 }
 section {
   display: flex;
